@@ -17,6 +17,6 @@ This repository contains the R scripts, processed data, and reproducible reports
 3. Install required packages listed in `sessionInfo.R`
 4. Run scripts in order from `scripts/`
 
-## 📬 Contact
+## Contact
 
 For questions or data access requests, contact: henver.brunetta@gmail.com or ghollowa@uoguelph.ca
