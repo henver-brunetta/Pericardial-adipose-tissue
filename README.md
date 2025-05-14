@@ -1,4 +1,22 @@
-# Pericardial-adipose-tissue
-This is the repository of codes used for the article addressing the role of pericardial adipose tissue in obesity-related heart disease. This repository contains the codes and proteomic data used in the article.
-This repository contains one script for each analysis performed with the proteomic data. The name of the script is linked to the name of the excel file, therefore, there will be one R code for each excel file.
-This approach is useful because human and mouse samples comparing different adipose tissue depots are paired, while when comparing lean vs. obese (both humans and mouse) the samples are not paired.
+# The browning status of pericardial adipose tissue controls heart function
+
+This repository contains the R scripts, processed data, and reproducible reports for the article:
+
+> *"Title of Your Paper," Author et al., Journal, Year*
+
+## Repository Structure
+
+- `data/`: Excel files and processed data
+- `scripts/`: R scripts used for cleaning and analysis
+- `docs/`: Metadata, experimental design, etc.
+
+## How to Reproduce
+
+1. Clone this repo
+2. Open `R` or `RStudio`
+3. Install required packages listed in `sessionInfo.R`
+4. Run scripts in order from `scripts/`
+
+## 📬 Contact
+
+For questions or data access requests, contact: henver.brunetta@gmail.com or ghollowa@uoguelph.ca
