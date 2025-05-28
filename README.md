@@ -1,4 +1,4 @@
-# The browning status of pericardial adipose tissue controls heart function
+# 3-adrenergic browning of pericardial adipose tissue controls cardiac function
 
 This repository contains the R scripts, processed data, and reproducible reports for the article:
 
